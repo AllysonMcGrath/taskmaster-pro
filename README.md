@@ -20,7 +20,7 @@ You can see the deployed site [here](https://allysonmcgrath.github.io/taskmaster
 
 When displaying correctly, the website should look like this:
 
-![Site with columns to sort tasks](./assets/images/taskinatorsite.JPG)
+![Site with columns to sort tasks](taskmasterprosite.JPG)
 
 
 Use standard git commands within this repository.
